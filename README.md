@@ -20,16 +20,16 @@
 
 ## 🕸️ **WEB DEV**
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][html]
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][css]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][javaScript]
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][typeScript]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][react]
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
-[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
-[![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][repo]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][boo]
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][sass]
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][jquery]
+[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][mui]
+[![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][socket]
 
 ## ⚙️ **BACKEND DEV**
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
@@ -82,17 +82,26 @@
 [medium]: https://medium.com/
 [github]: https://github.com/
 [google]: https://www.google.com
-[mdn]: https://developer.mozilla.org/en-US/
-[wiki]: https://en.wikipedia.org/wiki/Main_Page
-[quora]: https://www.quora.com/
-[doc]: https://www.digitalocean.com/community
-[youtube]: https://www.youtube.com/
-[udemy]: https://www.udemy.com/
-[gog]: https://www.geeksforgeeks.org/
-[fcc]: https://www.freecodecamp.org/
-[sof]: https://stackoverflow.com/
-[repo]: https://github.com/Aram-Eli/
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[mdn]:    https://developer.mozilla.org/en-US/
+[wiki]:   https://en.wikipedia.org/wiki/Main_Page
+[quora]:  https://www.quora.com/
+[doc]:    https://www.digitalocean.com/community
+[youtube]:https://www.youtube.com/
+[udemy]:  https://www.udemy.com/
+[gog]:    https://www.geeksforgeeks.org/
+[fcc]:    https://www.freecodecamp.org/
+[sof]:    https://stackoverflow.com/
+[repo]:   https://github.com/Aram-Eli/
+[html]:   https://developer.mozilla.org/en-US/docs/Web/HTML
+[javaScripts]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[css3]:   https://css-tricks.com/
+[typeScript]: https://www.typescriptlang.org/
+[react]:  https://reactjs.org/
+[sass]:   https://sass-lang.com/
+[boo]:    https://getbootstrap.com/
+[socket]: https://socket.io/docs/v4/client-api/
+[mui]:    https://mui.com/
+[jquery]: https://jquery.com/
 
 <hr />
 
