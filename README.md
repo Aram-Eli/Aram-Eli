@@ -108,7 +108,7 @@
 [python]:  https://www.python.org/
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [git]:   https://git-scm.com/
-[doker]: https://www.docker.com/
+[docker]: https://www.docker.com/
 [apache]:  https://httpd.apache.org/
 [nginx]:  https://www.nginx.com/
 [npm]:   https://www.npmjs.com/
