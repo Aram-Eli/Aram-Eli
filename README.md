@@ -130,7 +130,3 @@
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-https://forthebadge.com/images/badges/contains-cat-gifs.svg
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
