@@ -121,7 +121,6 @@
 [heroku]:  https://www.heroku.com/
 [netlify]: https://www.netlify.com/
 [vercel]:https://vercel.com/
-[]:
 
 
 <hr />
@@ -131,3 +130,4 @@
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+[![forthebadge](https://forthebadge.com/images/badges/Thanks-EveryOne)](https://forthebadge.com)
