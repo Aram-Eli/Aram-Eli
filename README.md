@@ -51,12 +51,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][linux]
 
 ## ☁️ **CLOUDS**
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][goglecloud]
 [![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][repo]
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][heroku]
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][netlify]
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][vercel]
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][firebase]
 
 ## 📄 **CODE EDITOR & IDES**
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
@@ -116,7 +116,11 @@
 [insomnia]: https://insomnia.rest/
 [shellScript]: https://shellscript.sh
 [linux]:   https://www.linux.org/
-[]:
+[goglecloud]: https://cloud.google.com/
+[aws]: https://aws.amazon.com/
+[heroku]:  https://www.heroku.com/
+[netlify]: https://www.netlify.com/
+[vercel]:https://vercel.com/
 []:
 
 
