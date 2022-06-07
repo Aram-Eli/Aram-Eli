@@ -32,12 +32,12 @@
 [![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=**010101** "Socket.io-client")][socket]
 
 ## ⚙️ **BACKEND DEV**
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
-[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")][repo]
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][repo]
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][node]
+[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][express]
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")][scoket]
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][firebase]
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][python]
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][flask]
 
 ## 🛠️ **DEVOPS TOOLS**
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
@@ -102,6 +102,12 @@
 [socket]: https://socket.io/docs/v4/client-api/
 [mui]:    https://mui.com/
 [jquery]: https://jquery.com/
+[node]:   https://nodejs.org/en/
+[express]:https://expressjs.com/
+[firebase]:https://firebase.google.com/
+[python]:  https://www.python.org/
+[flask]: https://flask.palletsprojects.com/en/2.1.x/
+
 
 <hr />
 
